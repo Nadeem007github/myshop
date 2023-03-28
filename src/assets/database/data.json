@@ -1,0 +1,404 @@
+{
+  "maincategory": [
+    {
+      "name": "Male",
+      "id": 1
+    },
+    {
+      "name": "female",
+      "id": 2
+    },
+    {
+      "name": "Kids",
+      "id": 3
+    }
+  ],
+  "subcategory": [
+    {
+      "name": "Jeans",
+      "id": 1
+    },
+    {
+      "name": "Tshirt",
+      "id": 2
+    },
+    {
+      "name": "Shirt",
+      "id": 3
+    },
+    {
+      "name": "Trouser",
+      "id": 4
+    }
+  ],
+  "brand": [
+    {
+      "name": "Adidas",
+      "id": 6
+    },
+    {
+      "name": "Nike",
+      "id": 7
+    },
+    {
+      "name": "Polo",
+      "id": 8
+    },
+    {
+      "name": "jorden",
+      "id": 9
+    }
+  ],
+  "product": [
+    {
+      "name": "kids trouser polo",
+      "maincategory": "Kids",
+      "subcategory": "Trouser",
+      "brand": "Polo",
+      "color": "red",
+      "size": "34",
+      "baseprice": "4564",
+      "discount": "34",
+      "finalprice": "3454",
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "prod-1.png",
+      "pic2": "bg_1.jpg",
+      "pic3": "choose-1.jpg",
+      "pic4": "choose-2.jpg",
+      "id": 21
+    },
+    {
+      "name": "Female jeans Ripped",
+      "maincategory": "female",
+      "subcategory": "Jeans",
+      "brand": "jorden",
+      "color": "Blue",
+      "size": "LG",
+      "baseprice": "4356",
+      "discount": "34",
+      "finalprice": "2343",
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "image_5.jpg",
+      "pic2": "bg_1.png",
+      "pic3": "image_2.jpg",
+      "pic4": "image_6.jpg",
+      "id": 22
+    },
+    {
+      "name": "Female Trouser Black",
+      "maincategory": "female",
+      "subcategory": "Trouser",
+      "brand": "Polo",
+      "color": "black",
+      "size": "36",
+      "baseprice": "5687",
+      "discount": "23",
+      "finalprice": "4567",
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "choose-2.jpg",
+      "pic2": "bg_2.png",
+      "pic3": "image_1.jpg",
+      "pic4": "image_3.jpg",
+      "id": 23
+    },
+    {
+      "name": "Kids Tshirt blue polo",
+      "maincategory": "Kids",
+      "subcategory": "Tshirt",
+      "brand": "Polo",
+      "color": "blue",
+      "size": "LG",
+      "baseprice": "5656",
+      "discount": "34",
+      "finalprice": "3424",
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "bg_1.jpg",
+      "pic2": "image_6.jpg",
+      "pic3": "gallery-1.jpg",
+      "pic4": "gallery-4.jpg",
+      "id": 24
+    },
+    {
+      "name": "Female Tshirt White Adidas",
+      "maincategory": "female",
+      "subcategory": "Tshirt",
+      "brand": "Adidas",
+      "color": "White",
+      "size": "LG",
+      "baseprice": "5466",
+      "discount": "12",
+      "finalprice": "5000",
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "choose-1.jpg",
+      "pic2": "choose-3.jpg",
+      "pic3": "gallery-2.jpg",
+      "pic4": "gallery-5.jpg",
+      "id": 25
+    },
+    {
+      "name": "Man Tshirt nike",
+      "maincategory": "Male",
+      "subcategory": "Tshirt",
+      "brand": "Nike",
+      "color": "black",
+      "size": "34",
+      "baseprice": "5654",
+      "discount": "23",
+      "finalprice": "4900",
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "bg_1.jpg",
+      "pic2": "gallery-1.jpg",
+      "pic3": "gallery-4.jpg",
+      "pic4": "about.jpg",
+      "id": 26
+    },
+    {
+      "name": "kids jeans jorden",
+      "maincategory": "Kids",
+      "subcategory": "Jeans",
+      "brand": "jorden",
+      "color": "yellow",
+      "size": "34",
+      "baseprice": "8989",
+      "discount": "45",
+      "finalprice": "5999",
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "gallery-1.jpg",
+      "pic2": "person_4.jpg",
+      "pic3": "choose-2.jpg",
+      "pic4": "person_1.jpg",
+      "id": 27
+    },
+    {
+      "name": "Male tshirt polo",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Polo",
+      "color": "Blue",
+      "size": "LG",
+      "baseprice": "1234",
+      "discount": "12",
+      "finalprice": "867",
+      "stock": "In Stock",
+      "description": "This is Sample Product",
+      "pic1": "gallery-4.jpg",
+      "pic2": "gallery-2.jpg",
+      "pic3": "product-6.png",
+      "pic4": "gallery-1.jpg",
+      "id": 28
+    }
+  ],
+  "user": [
+    {
+      "id": 0
+    },
+    {
+      "name": "nadeem ansari",
+      "username": "nadeem",
+      "email": "nadeemsaddieq894753@gmail.com",
+      "phone": "9068158584",
+      "password": "nadeem@123",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "",
+      "role": "User",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "name": "rihan",
+      "username": "rihan",
+      "email": "nadeem906815@gmail.com",
+      "phone": "9839289231",
+      "password": "rihan@123",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "",
+      "role": "User",
+      "id": 9
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    },
+    {
+      "id": 11
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 22
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    },
+    {
+      "productid": 22,
+      "userid": "7",
+      "name": "Female jeans Ripped",
+      "color": "Blue",
+      "size": "LG",
+      "price": "2343",
+      "pic": "image_5.jpg",
+      "id": 1
+    },
+    {
+      "productid": 21,
+      "userid": "7",
+      "name": "kids trouser polo",
+      "color": "red",
+      "size": "34",
+      "price": "3454",
+      "pic": "prod-1.png",
+      "id": 2
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    },
+    {
+      "userid": "7",
+      "paymentmode": "COD",
+      "orderstatus": "Order Placed",
+      "paymentstatus": "Pending",
+      "time": "2023-03-23T06:01:37.353Z",
+      "totalAmount": 18688,
+      "shippingAmount": 0,
+      "finalAmount": 18688,
+      "products": [
+        {
+          "productid": 23,
+          "userid": "7",
+          "name": "Female Trouser Black",
+          "color": "black",
+          "size": "36",
+          "price": "4567",
+          "qty": 1,
+          "total": 4567,
+          "pic": "choose-2.jpg",
+          "id": 26
+        },
+        {
+          "productid": 24,
+          "userid": "7",
+          "name": "Kids Tshirt blue polo",
+          "color": "blue",
+          "size": "LG",
+          "price": "3424",
+          "qty": 1,
+          "total": 3424,
+          "pic": "bg_1.jpg",
+          "id": 27
+        },
+        {
+          "productid": 22,
+          "userid": "7",
+          "name": "Female jeans Ripped",
+          "color": "Blue",
+          "size": "LG",
+          "price": "2343",
+          "qty": 1,
+          "total": 2343,
+          "pic": "image_5.jpg",
+          "id": 29
+        },
+        {
+          "productid": 21,
+          "userid": "7",
+          "name": "kids trouser polo",
+          "color": "red",
+          "size": "34",
+          "price": "3454",
+          "qty": 1,
+          "total": 3454,
+          "pic": "prod-1.png",
+          "id": 30
+        },
+        {
+          "productid": 26,
+          "userid": "7",
+          "name": "Man Tshirt nike",
+          "color": "black",
+          "size": "34",
+          "price": "4900",
+          "qty": 1,
+          "total": 4900,
+          "pic": "bg_1.jpg",
+          "id": 31
+        }
+      ],
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    }
+  ],
+  "contact": [
+    {
+      "id": 0
+    },
+    {
+      "name": "nadeem",
+      "email": "nadeemsaddieq894753@gmail.com",
+      "phone": "9068158584",
+      "subject": "test",
+      "message": "qkwrdhweudhej",
+      "status": "Active",
+      "time": "2023-03-27T06:55:21.818Z",
+      "id": 5
+    }
+  ],
+  "newslatter": [
+    {
+      "id": 0
+    },
+    {
+      "email": "nadeem906815@gmail.com",
+      "id": 1
+    },
+    {
+      "email": "nadeemsaddieq894753@gmail.com",
+      "id": 2
+    }
+  ]
+}
